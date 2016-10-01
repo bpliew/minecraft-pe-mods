@@ -4,9 +4,9 @@
 //Facebook: https://facebook.com/xxmlgilluminatixx
 //Version: 1.0
 //This mod only works on creative mode.
-//Special thanks to ancernarry.
+//Special thanks to ancernarry
 //Copyright 2016
-//Don't you dare copy the source code and rewrite it.
+//Don't you dare copy the source code and rewrite it
 
 /*Changelogs:
 *v1.0
